@@ -14,7 +14,7 @@
   </a>
   
   <a href="https://github.com/GAVRodrigues/nlw1-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nlw1-ecoleta/nlw1-ecoleta">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GAVRodrigues/nlw1-ecoleta">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -47,7 +47,7 @@ Executando as aplicações individualmente:
 ####   **Back-end**
 ```bash
 # Entre no repositório
-cd nlw1-ecoleta/server
+$ cd nlw1-ecoleta/server
 
 # Instalar dependências 
 $ npm install
